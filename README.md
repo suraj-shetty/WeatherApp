@@ -2,8 +2,6 @@
 
 A beautifully designed iOS weather app built using **SwiftUI** and **WeatherKit**, showcasing current weather conditions, 12-hour forecasts, and more — all with a dynamic, theme-adaptive interface.
 
-![Figma Design Preview](https://www.figma.com/file/RjucsLMfmhElYxIqBEP5Ir/Weather-App-%7C-Template--Community-?type=design&node-id=0-1)
-
 ---
 
 ## ✨ Features
@@ -69,8 +67,10 @@ A beautifully designed iOS weather app built using **SwiftUI** and **WeatherKit*
     Go to Signing & Capabilities
     Add WeatherKit entitlement
 
-📸 Screenshots
-[Cloudy.png](https://github.com/suraj-shetty/WeatherApp/blob/main/Screenshots/cloudy.png)
+---
+
+## 📸 Screenshots
+![Cloudy](Screenshots/cloudy.png)
 
 📌 To-Do / Roadmap
 
