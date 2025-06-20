@@ -72,19 +72,23 @@ A beautifully designed iOS weather app built using **SwiftUI** and **WeatherKit*
 ## 📸 Screenshots
 ![Cloudy](Screenshots/cloudy.png)
 
-📌 To-Do / Roadmap
+---
+
+## 📌 To-Do / Roadmap
 
  1. Add support for weekly forecast
  2. Expand theme variations (e.g., Thunderstorm, Fog)
  3. Add dark mode support
  4. Add support for multiple saved locations
  
+ ---
+
+## 🧑‍🎨 Credits
+
+Design: Mark Vassilevsky
+Weather API: WeatherKit by Apple
  
- 🧑‍🎨 Credits
+ ---
 
-    Design: Mark Vassilevsky
-    Weather API: WeatherKit by Apple
-
-
-📄 License
-    This project is licensed under the MIT License.
+## 📄 License
+This project is licensed under the MIT License.
